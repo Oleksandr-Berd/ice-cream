@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Yevdokymenko.github.io/ITHooligans_IceCream",
+  "homepage": "https://github.com/Oleksandr-Berd/ice-cream.git",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /ITHooligans_IceCream/"
+    "build": "parcel build src/*.html --public-url /ice-cream.git"
   },
   "repository": {
     "type": "git",
