@@ -5,7 +5,7 @@
   "homepage": "https://github.com/Oleksandr-Berd/ice-cream.git",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /ice-cream.git"
+    "build": "parcel build src/*.html --public-url /ice-cream"
   },
   "repository": {
     "type": "git",
